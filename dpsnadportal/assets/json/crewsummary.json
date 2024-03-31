@@ -1,0 +1,89 @@
+{
+  "status": "1",
+  "message": "success",
+  "columnheadings":[
+    {
+      "id":1,
+      "name":"Checks"
+    },
+    {
+      "id":2,
+      "name":"1st FAM"
+    },
+    {
+      "id":3,
+      "name":"2nd FAM"
+    },
+    {
+      "id":4,
+      "name":"3rd FAM"
+    }
+  ],
+  "cabinchecklist": [
+    {
+      "heading": "Pre-Passengers Boarding Checks",
+      "crewcheckList": [
+        {
+          "id":1,
+          "checklistName": "Main Door pre-flight check",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":2,
+          "checklistName": "Escape Slide Pack (needle in the green zone)",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":3,
+          "checklistName": "Cabin Crew Assigned Seat Serviceability",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":4,
+          "checklistName": "Removable Safety Equipment",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":5,
+          "checklistName": "Broke all seals and checked trolleys serviceability",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":6,
+          "checklistName": "Service Equipment / Dry store and meals",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":7,
+          "checklistName": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":8,
+          "checklistName": "Over wing Exit (arm light, instructions, cover)",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":9,
+          "checklistName": "Drop out Oxygen Mask Doors (closed)",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":10,
+          "checklistName": "Lavatories Pre-flight checks",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":11,
+          "checklistName": "Security Search completed / passed",
+          "FAM" : ["Yes","No","NA"]
+        },
+        {
+          "id":12,
+          "checklistName": "Emergency Lighting system as per designated area",
+          "FAM" : ["Yes","No","NA"]
+        }
+      ]
+    }
+  ]
+}

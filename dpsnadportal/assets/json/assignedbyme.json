@@ -1,0 +1,36 @@
+{
+  "status":"1",
+  "message":"success",
+  "assignedbymecapa":[
+    {
+      "capid":60000081,
+      "capatype":"GOPA",
+      "capatitle":"comments",
+      "submitteddate":"01 May 2023",
+      "duedate":"10 Jun 2023",
+      "status":"CAPA Closed",
+      "assignedfrom":"Shijith Perunthottumannil(200106)",
+      "assignedto":"Ali Alenezi(200103)"
+    }, {
+      "capid":60000080,
+      "capatype":"GOPA",
+      "capatitle":"comments",
+      "submitteddate":"01 May 2023",
+      "duedate":"9 Jun 2023",
+      "status":"CAPA Open",
+      "assignedfrom":"Shijith Perunthottumannil(200106)",
+      "assignedto":"Shijith Perunthottumannil(200106)"
+    },
+    {
+      "capid":60000079,
+      "capatype":"GOPA",
+      "capatitle":"comments",
+      "submitteddate":"01 May 2023",
+      "duedate":"8 Jun 2023",
+      "status":"CAPA Closed",
+      "assignedfrom":"Shijith Perunthottumannil(200106)",
+      "assignedto":"Mourad Rammah(200014)"
+    }
+
+  ]
+}

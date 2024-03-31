@@ -1,0 +1,19 @@
+{
+
+  "passanger": [
+    {
+      "id": 1,
+      "name": "Yes"
+
+    },
+    {
+      "id": 2,
+      "name": "No"
+
+    },
+    {
+      "id": 3,
+      "name": "Not Available"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "status": "1",
+  "message": "success",
+  "formdata": [
+    {
+      "id": 38,
+      "type": "text",
+      "label": " Hazard Details",
+      "values": []
+    },
+    {
+      "id": 1,
+      "type": "text",
+      "label": "Hazard ID",
+      "values": []
+    },
+    {
+      "id": 2,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 3,
+      "type": "Check-Box",
+      "label": "Select Language",
+      "values": [
+        {
+          "name": "Do you want to report the Hazard anonymously?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "label": "Reference Hazard Id",
+      "values": []
+    },
+    {
+      "id": 5,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "label": "Hazard Category",
+      "values": []
+    },
+    {
+      "id": 7,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Aviation Related"
+        },
+        {
+          "name": "Non Aviation Related"
+        }
+        ]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "label": "Hazard Type*",
+      "values": []
+    },
+    {
+      "id": 9,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Administration"
+        },
+        {
+          "name": "Aerodrome Facility(F)"
+        },
+        {
+          "name": "Aerodrome Operations(O)"
+        },
+        {
+          "name": "Aerodrome Works(W)"
+        },
+        {
+          "name": "Human Factors"
+        },
+        {
+          "name": "Others(X)"
+        },
+        {
+          "name": "Terminal"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "label": "Hazard Short Text*",
+      "values": []
+    },
+    {
+      "id": 11,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "label": "Hazard Description",
+      "values": []
+    },
+    {
+      "id": 13,
+      "type": "description",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "label": "Hazard Severity",
+      "values": []
+    },
+    {
+      "id": 15,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Administration"
+        },
+        {
+          "name": "Aerodrome Facility(F)"
+        },
+        {
+          "name": "Aerodrome Operations(O)"
+        },
+        {
+          "name": "Aerodrome Works(W)"
+        },
+        {
+          "name": "Human Factors"
+        },
+        {
+          "name": "Others(X)"
+        },
+        {
+          "name": "Terminal"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "label": "Hazard Status*",
+      "values": []
+    },
+    {
+      "id": 17,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Administration"
+        },
+        {
+          "name": "Aerodrome Facility(F)"
+        },
+        {
+          "name": "Aerodrome Operations(O)"
+        },
+        {
+          "name": "Aerodrome Works(W)"
+        },
+        {
+          "name": "Human Factors"
+        },
+        {
+          "name": "Others(X)"
+        },
+        {
+          "name": "Terminal"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "label": "Reason(If Closed)",
+      "values": []
+    },
+    {
+      "id": 19,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Administration"
+        },
+        {
+          "name": "Aerodrome Facility(F)"
+        },
+        {
+          "name": "Aerodrome Operations(O)"
+        },
+        {
+          "name": "Aerodrome Works(W)"
+        },
+        {
+          "name": "Human Factors"
+        },
+        {
+          "name": "Others(X)"
+        },
+        {
+          "name": "Terminal"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "label": "Hazard Life Cycle",
+      "values": []
+    },
+    {
+      "id": 21,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Reported"
+        },
+        {
+          "name": "Aerodrome Facility(F)"
+        },
+        {
+          "name": "Aerodrome Operations(O)"
+        },
+        {
+          "name": "Aerodrome Works(W)"
+        },
+        {
+          "name": "Human Factors"
+        },
+        {
+          "name": "Others(X)"
+        },
+        {
+          "name": "Terminal"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "label": "Hazard Variant *",
+      "values": []
+    },
+    {
+      "id": 23,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Specific"
+        },
+        {
+          "name": "Generic"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "label": "Parent Hazard ID",
+      "values": []
+    },
+    {
+      "id": 25,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 26,
+      "type": "Check-Box",
+      "label": "Select Language",
+      "values": [
+        {
+          "name": "Add to Hazard Library"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "text",
+      "label": "Hazard Subtype *",
+      "values": []
+    },
+    {
+      "id": 28,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Others"
+        },
+        {
+          "name": "Over Time"
+        },
+        {
+          "name": "Working Hours"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "text",
+      "label": "Status Date *",
+      "values": []
+    },
+    {
+      "id": 30,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 31,
+      "type": "text",
+      "label": "Life Cycle Date",
+      "values": []
+    },
+    {
+      "id": 32,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 33,
+      "type": "text",
+      "label": "Reporting Identifications",
+      "values": []
+    },
+    {
+      "id": 34,
+      "type": "text",
+      "label": "Date Identified *",
+      "values": []
+    },
+    {
+      "id": 35,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 36,
+      "type": "text",
+      "label": "Time Identified",
+      "values": []
+    },
+    {
+      "id": 37,
+      "type": "Timepicker",
+      "label": "Time",
+      "values": []
+    },
+    {
+      "id": 39,
+      "type": "text",
+      "label": "Work Area",
+      "values": []
+    },
+    {
+      "id": 40,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Apron Taxi Lines"
+        },
+        {
+          "name": "Contact Stands"
+        },
+        {
+          "name": "Enroute"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "type": "text",
+      "label": "Location",
+      "values": []
+    },
+    {
+      "id": 42,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "East"
+        },
+        {
+          "name": "West"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "type": "text",
+      "label": "Location Details",
+      "values": []
+    },
+    {
+      "id": 44,
+      "type": "description",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 45,
+      "type": "text",
+      "label": "Airlines and Concessioners",
+      "values": []
+    },
+    {
+      "id": 46,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": ""
+        },
+        {
+          "name": "Abhi Dealers"
+        },
+        {
+          "name": "Aaron Dealers"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "type": "text",
+      "label": "Reported By",
+      "values": []
+    },
+    {
+      "id": 48,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 49,
+      "type": "text",
+      "label": "Reported On",
+      "values": []
+    },
+    {
+      "id": 50,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 51,
+      "type": "text",
+      "label": "Submitted By",
+      "values": []
+    },
+    {
+      "id": 52,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 53,
+      "type": "text",
+      "label": "Submitted On",
+      "values": []
+    },
+    {
+      "id": 54,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 55,
+      "type": "text",
+      "label": "Submitted Time*",
+      "values": []
+    },
+    {
+      "id": 56,
+      "type": "Timepicker",
+      "label": "Time",
+      "values": []
+    },
+    {
+      "id": 57,
+      "type": "text",
+      "label": "Reported By(External)",
+      "values": []
+    },
+    {
+      "id": 58,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 59,
+      "type": "text",
+      "label": "Contact No.(External)",
+      "values": []
+    },
+    {
+      "id": 60,
+      "type": "inputField",
+      "label": "",
+      "values": []
+    },
+    {
+      "id": 61,
+      "type": "text",
+      "label": "Designation(External)",
+      "values": []
+    },
+    {
+      "id": 62,
+      "type": "inputField",
+      "label": "",
+      "values": []
+    },
+    {
+      "id": 63,
+      "type": "text",
+      "label": "Last Modified By",
+      "values": []
+    },
+    {
+      "id": 64,
+      "type": "inputField",
+      "label": "",
+      "values": []
+    },
+    {
+      "id": 65,
+      "type": "text",
+      "label": "Last Modified On",
+      "values": []
+    },
+    {
+      "id": 66,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 67,
+      "type": "upload",
+      "label": "Upload File",
+      "values": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "video"
+        },
+        {
+          "name": "audio"
+        },
+        {
+          "name": "files"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "type": "button",
+      "label": "Button",
+      "values": [
+        {
+          "id": 1,
+          "name": "Save and Submit"
+        },
+        {
+          "id": 2,
+          "name": "Save as Draft"
+        },
+        {
+          "id": 3,
+          "name": "Clear"
+        }
+      ]
+    }
+  ]
+}

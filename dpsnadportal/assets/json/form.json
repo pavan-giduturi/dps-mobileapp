@@ -1,0 +1,334 @@
+{
+  "status": "1",
+  "message": "success",
+  "formdata": [
+    {
+      "id": 1,
+      "type": "text",
+      "label": "Incident ID",
+      "values": []
+    },
+    {
+      "id": 2,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 3,
+      "type": "Check-Box",
+      "label": "Select Language",
+      "values": [
+        {
+          "name": "Do you want to report the incident anonymously?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "label": "Incident Date *",
+      "values": []
+    },
+    {
+      "id": 5,
+      "type": "Datepicker",
+      "label": "Current date",
+      "values": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "label": "Incident Time",
+      "values": []
+    },
+    {
+      "id": 7,
+      "type": "Timepicker",
+      "label": "Time",
+      "values": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "label": "Incident Category",
+      "values": []
+    },
+    {
+      "id": 9,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Aviation Safety"
+        },
+        {
+          "name": "BCM"
+        },
+        {
+          "name": "OSHAS"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "label": "Incident Type *",
+      "values": []
+    },
+    {
+      "id": 11,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Airside Incident"
+        },
+        {
+          "name": "Landside Incident"
+        },
+        {
+          "name": "Others"
+        },
+        {
+          "name": "Terminal Incident"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "label": "Incident Subtype *",
+      "values": []
+    },
+    {
+      "id": 13,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Aircraft Collision"
+        },
+        {
+          "name": "Aircraft crash"
+        },
+        {
+          "name": "Aircraft Fire"
+        },
+        {
+          "name": "Bird Hit"
+        },
+        {
+          "name": "Bomb Blast"
+        },
+        {
+          "name": "Fuel Spill"
+        },
+        {
+          "name": "Hijack"
+        },
+        {
+          "name": "others"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "label": "Incident Severity *",
+      "values": []
+    },
+    {
+      "id": 15,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Major"
+        },
+        {
+          "name": "Minor"
+        },
+        {
+          "name": "Negligible"
+        },
+        {
+          "name": "Hazardous"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "label": "Incident Title *",
+      "values": []
+    },
+    {
+      "id": 17,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "label": "Description *",
+      "values": []
+    },
+    {
+      "id": 19,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "label": "Alert Received By *",
+      "values": []
+    },
+    {
+      "id": 21,
+      "type": "inputField",
+      "label": " ",
+      "values": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "label": "Alert Time *",
+      "values": []
+    },
+    {
+      "id": 23,
+      "type": "Timepicker",
+      "label": "Time",
+      "values": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "label": "Medical Support",
+      "values": []
+    },
+    {
+      "id": 25,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Major"
+        },
+        {
+          "name": "Minor"
+        },
+        {
+          "name": "Negligible"
+        },
+        {
+          "name": "Hazardous"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "text",
+      "label": "Ambulance Service",
+      "values": []
+    },
+    {
+      "id": 27,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Major"
+        },
+        {
+          "name": "Minor"
+        },
+        {
+          "name": "Negligible"
+        },
+        {
+          "name": "Hazardous"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "text",
+      "label": "Type of Injury",
+      "values": []
+    },
+    {
+      "id": 29,
+      "type": "dropdown",
+      "label": "",
+      "values": [
+        {
+          "name": "Major"
+        },
+        {
+          "name": "Minor"
+        },
+        {
+          "name": "Negligible"
+        },
+        {
+          "name": "Hazardous"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "text",
+      "label": "Sequence of Actions Taken with Time Stamp(Time (24 hrs.)) *",
+      "values": []
+    },
+    {
+      "id": 31,
+      "type": "inputField",
+      "label": "",
+      "values": []
+    },
+    {
+      "id": 32,
+      "type": "upload",
+      "label": "Upload File",
+      "values": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "video"
+        },
+        {
+          "name": "audio"
+        },
+        {
+          "name": "files"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "button",
+      "label": "Button",
+      "values": [
+        {
+          "id": 1,
+          "name": "Save and Submit"
+        },
+        {
+          "id": 2,
+          "name": "Save as Draft"
+        },
+        {
+          "id": 3,
+          "name": "Clear"
+        }
+      ]
+    }
+  ]
+}

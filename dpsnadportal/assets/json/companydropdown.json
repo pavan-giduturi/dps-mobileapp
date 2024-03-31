@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "type": "dropdown",
+  "label": "",
+  "values": [
+    {
+      "name": "BIAL"
+    },
+    {
+      "name": "Airlines and Concessioners"
+    },
+    {
+      "name": "Airlines and Concessioners 2"
+    }
+  ]
+}

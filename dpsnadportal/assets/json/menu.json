@@ -1,0 +1,47 @@
+{
+  "status": "1",
+  "message": "success",
+  "formdata": [
+    {
+      "id": 1,
+      "type": "text",
+      "label": "Favorites",
+      "values": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "label": "Anouncements",
+      "values": [
+        {
+          "name": "Inbox"
+        },
+        {
+          "name": "Risk Assessment"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "label": "Inbox",
+      "values": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "label": "Risk Assessment",
+      "values": [
+        {
+          "name": "New"
+        },
+        {
+          "name": "Search"
+        },
+        {
+          "name": "New"
+        }
+      ]
+    }
+      ]
+}

@@ -1,0 +1,978 @@
+{
+  "status": "1",
+  "message": "success",
+  "cabinchecklist": [
+    {
+      "heading": "Pre-Passengers Boarding Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 1,
+          "checklistName": "Main Door pre-flight check",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 2,
+          "checklistName": "Escape Slide Pack (needle in the green zone)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 3,
+          "checklistName": "Cabin Crew Assigned Seat Serviceability",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 4,
+          "checklistName": "Removable Safety Equipment",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 5,
+          "checklistName": "Broke all seals and checked trolleys serviceability",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 6,
+          "checklistName": "Service Equipment / Dry store and meals",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 8,
+          "checklistName": "Passenger Seats(seat belt, life jacket, safety card)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 9,
+          "checklistName": "Over wing Exit (arm light, instructions, cover)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 10,
+          "checklistName": "Drop out Oxygen Mask Doors (closed)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 11,
+          "checklistName": "Lavatories Pre-flight checks",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 12,
+          "checklistName": "Security Search completed / passed",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        },
+        {
+          "checklistID": 13,
+          "checklistName": "Emergency Lighting system as per designated area",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]        }
+      ]
+    },
+    {
+      "heading": "Passengers Boarding Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 14,
+          "checklistName": "Boarding Position",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 15,
+          "checklistName": "Passengers (boarding passes, baggage, ABPs,infants.)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 16,
+          "checklistName": "PRM seating (correct section)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 17,
+          "checklistName": "Exit / Aisle (clear from obstructions)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 18,
+          "checklistName": "Exit Seats occupants",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 19,
+          "checklistName": "Cabin Baggage (placed in OHS or under seats)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Taxi Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 20,
+          "checklistName": "Overhead Stowage (closed and secured)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 21,
+          "checklistName": "All passengers seated",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 22,
+          "checklistName": "Main doors (closed, locked, armed and cross checked)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 23,
+          "checklistName": "Curtain and dividers (secured in the open position)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Take off Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 24,
+          "checklistName": "Passengers seating with seat belt fastened ",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 25,
+          "checklistName": "Lavatories (closed and clear of passengers)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 26,
+          "checklistName": "Cabin secure",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 27,
+          "checklistName": "Stowed and secured the service equipment",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 28,
+          "checklistName": "Galley (secured and power off)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 29,
+          "checklistName": "Passed cabin secure",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 30,
+          "checklistName": "Seated on CS command and performed silent review",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "In-Flight Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 31,
+          "checklistName": "Lavatory check and fire watch",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 32,
+          "checklistName": "Cockpit check",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 33,
+          "checklistName": "Cabin patrol",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 34,
+          "checklistName": "Cabin secure if turbulence encountered",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Catering / Service /PR",
+      "crewcheckList": [
+        {
+          "checklistID": 35,
+          "checklistName": "Familiar with the catering products/prices",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 36,
+          "checklistName": "Standard trolley set up",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 37,
+          "checklistName": "Familiar with POS machine use",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 38,
+          "checklistName": "Use of standard service guideline",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 39,
+          "checklistName": "Pax approach/ PR /Customer service",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 40,
+          "checklistName": "Teamwork spirit and communication",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Landing Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 41,
+          "checklistName": "Cabin securing/ pax seating and cabin luggage",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 42,
+          "checklistName": "Lavatories (cleared, closed)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 43,
+          "checklistName": "Service closure and cash handling",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 44,
+          "checklistName": "Secure of service equipment / galley / Power off",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 45,
+          "checklistName": "Curtain and divider (secured in the open position)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 46,
+          "checklistName": "Pass the cabin secure",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 47,
+          "checklistName": "Seated on CS command and performed silent   review",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "After Landing Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 48,
+          "checklistName": "Disarmed the door on CS command using the correct procedure",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 49,
+          "checklistName": "Supervised & farewell to all passengers while disembarking",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 50,
+          "checklistName": "Opened the door using the correct procedure",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Post Disembarkation Checks",
+      "crewcheckList": [
+        {
+          "checklistID": 51,
+          "checklistName": "Security check completed and reported using Security Check Checklist ",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 52,
+          "checklistName": "Infant/extensions (if used) collected/returned",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        },
+        {
+          "checklistID": 53,
+          "checklistName": "Sealed and locked all trolleys",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "NA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "status":"1",
+  "message":"success",
+  "gopadraft":[
+    {
+      "auditid":93999024,
+      "station":"Hyderabad",
+      "groundHandler":"AirIndia SATS",
+      "date":"21 Sep 2022",
+      "auitedby":"Satbir Singh (100224)"
+    },
+    {
+      "auditid":93999013,
+      "station":"Hyderabad",
+      "groundHandler":"AirIndia SATS",
+      "date":"21 Sep 2022",
+      "auitedby":"Satbir Singh (100224)"
+    },
+    {
+      "auditid":93999012,
+      "station":"Hyderabad",
+      "groundHandler":"AirIndia SATS",
+      "date":"21 Sep 2022",
+      "auitedby":"Satbir Singh (100224)"
+    }
+  ]
+}

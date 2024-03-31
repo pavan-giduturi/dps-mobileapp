@@ -1,0 +1,589 @@
+{
+  "cabinchecklist": [
+    {
+      "heading": "Pre-Passengers Boarding Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "Passengers Boarding Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Taxi Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "Na",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Take off Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "In-Flight Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "Na",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "Catering / Service /PR",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "Na",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Pre-Landing Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "After Landing Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "Na",
+          "FAM3": "NA"
+        }
+      ]
+    },
+    {
+      "heading": "Post Disembarkation Checks",
+      "crewcheckList": [
+        {
+          "check": "Main Door pre-flight check",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Escape Slide Pack (needle in the green zone)",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Cabin Crew Assigned Seat Serviceability",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Removable Safety Equipment",
+          "FAM1": "Yes",
+          "FAM2": "Yes",
+          "FAM3": "Yes"
+        },
+        {
+          "check": "Broke all seals and checked trolleys serviceability",
+          "FAM1": "NA",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Service Equipment / Dry store and meals",
+          "FAM1": "No",
+          "FAM2": "NA",
+          "FAM3": "No"
+        },
+        {
+          "check": "Passenger Seats(seat belt, life jacket, safety card)",
+          "FAM1": "No",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Over wing Exit (arm light, instructions, cover)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Drop out Oxygen Mask Doors (closed)",
+          "FAM1": "Yes",
+          "FAM2": "No",
+          "FAM3": "NA"
+        },
+        {
+          "check": "Lavatories Pre-flight checks",
+          "FAM1": "Yes",
+          "FAM2": "NA",
+          "FAM3": "NA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "0",
+  "message": "success",
+  "headings": [
+    "Report Id",
+    "Report Type",
+    "Date",
+    "Time",
+    "Shift",
+    "Exact Location",
+    "Reported On",
+    "Incident Status",
+    "Incident Happened"
+  ],
+  "searchdata": [
+    [
+      "100807",
+      "Hazard",
+     "12-08-2022",
+     "10:00:00",
+      "C",
+     "Plant Canteen",
+      "12-08-2022",
+     "Open",
+      "fire"
+    ],
+    [
+      "100809",
+      "Hazard",
+      "12-08-2022",
+     "10:00:00",
+       "C",
+       "Plant Canteen",
+     "12-08-2022",
+      "Open",
+       ""
+    ],
+    ["100808",
+      "Hazard",
+     "12-08-2022",
+     "10:00:00",
+     "C",
+       "Plant Canteen",
+      "12-08-2022",
+      "Open",
+       ""
+    ]
+  ]
+}

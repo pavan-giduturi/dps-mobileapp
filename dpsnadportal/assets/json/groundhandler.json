@@ -1,0 +1,26 @@
+{
+  "status": "1",
+  "message": "success",
+  "data": [
+    {
+      "id": 100807,
+      "ground_handler": "Bahrain Airport Services (BAS)",
+      "station_name": "BAH"
+    },
+    {
+      "id": 100701,
+      "ground_handler": "Airindia SATS",
+      "station_name": "BLR"
+    },
+     {
+      "id": 1008705,
+      "ground_handler": "NAS",
+      "station_name": "KWI"
+    },
+      {
+      "id": 100801,
+      "ground_handler": "Swissport",
+      "station_name": "CMN"
+    }
+  ]
+}

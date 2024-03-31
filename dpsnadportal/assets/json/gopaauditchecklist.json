@@ -1,0 +1,270 @@
+{
+  "status": "1",
+  "message": "success",
+  "cabinchecklist": [
+    {
+      "heading": " STATION SYNOPSIS",
+      "subheading": "",
+      "crewcheckList": [
+        {
+          "checklistID": 1,
+          "checklistName": "Is GHA ISAGO certified *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 2,
+          "checklistName": "Select the airlines operating from station *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "Not Applicable"
+            }
+          ]
+        },
+        {
+          "checklistID": 3,
+          "checklistName": "Are all airlines handled by the same GHA *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 4,
+          "checklistName": "Is this GOPA being conducted with restart of station (Mark only one box) (If ‘Yes’ is selected, then Section 3, 4 and 8 should be marked as ‘Not Applicable’) *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 5,
+          "checklistName": "Is audit being conducted within due dates (Mark only one box) (Within 6 months for Airport Managers and 24 months for Regional Managers from previous audit) Reason if ‘No’ is selected: *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 6,
+          "checklistName": "Does station handle Cargo and Mail operations *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 8,
+          "checklistName": "Are Load Control functions under CLC *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 9,
+          "checklistName": "Does station require Deicing/ Anti-icing operations *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 10,
+          "checklistName": "Does station utilizes Passenger Boarding Bridge *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 11,
+          "checklistName": "For RGMs: Are previous GOPA findings closed and preventive actions effective *",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },
+            {
+              "id": 3,
+              "name": "Not Applicable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "STATION ORGANIZATION AND MANAGEMENT",
+      "subheading": "2.1. Facilities",
+      "crewcheckList": [
+        {
+          "checklistID": 14,
+          "checklistName": "Does the GHA have the necessary facilities, work space, equipment and supporting services to satisfy ground handling operational safety and security requirements?",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 15,
+          "checklistName": "Does the GHA has an internal audit program?",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 16,
+          "checklistName": " Does the GHA has documented procedure for handling ground incident and/or accidents?",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 17,
+          "checklistName": " Are records of reported incident and/ or accidents maintained and retained?",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 18,
+          "checklistName": "Does the GHA have an effective communication system that enables effective exchange of required information throughout the management and non-management staff?",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "checklistID": 19,
+          "checklistName": "Does the GHA utilizes DCS other than airline’s own DCS (Altea) for loadsheet generation? (You may select ‘Not Applicable’ if CLC is implemented at your station)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },{
+              "id": 3,
+              "name": "Not Applicable"
+            }
+          ]
+        },
+        {
+          "checklistID": 20,
+          "checklistName": " Is GHA DCS loadsheet approved by Airline HQ Ground Operations? (You may select ‘Not Applicable’ if Airline DCS or CLC is implemented at your station)",
+          "rating": [
+            {
+              "id": 1,
+              "name": "Yes"
+            },
+            {
+              "id": 2,
+              "name": "No"
+            },{
+              "id": 3,
+              "name": "Not Applicable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
